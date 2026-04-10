@@ -46,7 +46,7 @@ O arquivo utilizado (`livros.csv`) possui as seguintes colunas:
 
 ## Como executar
 
-1. Clone o repositório: git clone <https://github.com/Joaopaulofreitasz/Atividades-de-desenvolvimento-rapido-em-Python/new/main?filename=README.md>
+1. Clone o repositório: git clone <https://github.com/Joaopaulofreitasz/Projeto-Livros-Pandas>
 2. Acesse a pasta do projeto: cd <atividade aula 03>
 3. Instale as dependências (se necessário): pip install pandas openpyxl
 4. Execute o script: python analise_livros.py
