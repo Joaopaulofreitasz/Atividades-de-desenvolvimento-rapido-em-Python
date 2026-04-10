@@ -1,4 +1,4 @@
-Nome - João Paulo de Freitas Costa
+Nome - João Paulo de Freitas Costa -
 Matrícula - 202404000095
 
 # Análise de Livros com Pandas
